@@ -1,0 +1,32 @@
+# Logs
+logs/
+*.log
+
+# Python virtual environment
+python/
+/python/
+
+# Model Files (downloaded models)
+Model_Files/
+
+# Release/distribution files
+發行檔案/
+捨棄/
+
+# macOS specific files
+.DS_Store
+._*
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp 
+model_cache/
+
+venv/
